@@ -1,0 +1,26 @@
+﻿  编译器.cpp
+  词法分析.cpp
+D:\Visual Studio project\编译器\编译器\词法分析.cpp(389,11): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\词法分析.cpp(463,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\词法分析.cpp(755,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\词法分析.cpp(782,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\词法分析.cpp(795,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\词法分析.cpp(808,20): warning C4018:  “<”: 有符号/无符号不匹配
+  语法语义分析.cpp
+D:\Visual Studio project\编译器\编译器\词法分析.cpp(821,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(40,9): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1237,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1525,8): warning C4101:  “T_temp”: 未引用的局部变量
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1661,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1697,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1793,13): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1822,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1854,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1906,16): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1930,16): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1952,16): warning C4018:  “<”: 有符号/无符号不匹配
+  正在生成代码...
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1978,16): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Visual Studio project\编译器\编译器\语法语义分析.cpp(1722): warning C4715:  “declar_type”: 不是所有的控件路径都返回值
+  LINK : 没有找到 D:\Visual Studio project\编译器\Debug\编译器.exe 或上一个增量链接没有生成它；正在执行完全链接
+  编译器.vcxproj -> D:\Visual Studio project\编译器\Debug\编译器.exe

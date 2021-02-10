@@ -1,0 +1,74 @@
+int max(int pl,int de)
+{
+	
+	pl=1;
+	de=2;
+	int a,b,c;
+	if (a<b)
+	{
+		a = a + 1;
+	}
+	else
+	{
+		b = a + b;
+	}
+	while (a>b)
+	{
+		b = a + b * (a + 1);
+	}
+	return c;
+}
+
+int min(int t,int r)
+{
+	t=2;
+	r=2*69+36/t;
+	t=max(t,r);
+	return t;
+}
+
+int main()
+{
+	bool f;
+	int a;
+	int b, c;
+	float kl;
+	f=2<3;
+	kl=2.236;
+	string hu;
+	hu="ji";
+	
+	char l;
+	l='k';
+	
+	a = 3 * 5;
+	
+	b = 5 * (1 + 1);
+	c = a + b;
+	int m[5]={1,2,3,4,5};
+	a=5;
+	if (a<b)
+	{
+		a = a + 1;
+	}
+	else
+	{
+		b = a + b;
+	}
+	while (a>b)
+	{
+		b = a + b * (a + 1);
+	}
+	while (a>(2+3)*6-7)
+	{
+		b = a + b * (a + 1)+c-56;
+		if(2)
+		{
+			b=2+8*9-((5+6)*8)*9;
+		}
+		
+	}
+	max(c,b);
+	c=min(a,b);
+	return 1;
+}
